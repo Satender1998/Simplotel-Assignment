@@ -34,3 +34,17 @@ List any prerequisites or requirements for setting up the project:
 ## Project Structure
 
 Screen shorts of the project
+
+- Top Section
+
+![Top Section](/UI//header.png)
+
+- Mid Section
+
+![Mid Section](/UI/main%20body.png)
+
+- Bottom Section
+
+![Bottom Section](/UI/bottom.png)
+
+    
